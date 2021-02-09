@@ -1,0 +1,19 @@
+@value makerBlack: black;
+@value makerWhite: white;
+@value makerLightGreen: #83cd7f;
+@value makerGreen: #00b050;
+@value makerYellow: #ffc000;
+@value makerBrightYellow: #ffd465;
+@value makerLightYellow: #fff2cc;
+@value makerDarkRed: #c30e0e;
+@value makerWhiteBackground: #f9f9f9;
+@value makerCardBackground: rgba(255, 255, 255, 0.76);
+
+/*  Gray */
+@value makerGray: #7f7f7f;
+@value makerLightGray: #f3f3f3;
+@value makerMediumGray: #bfbfbf;
+@value makerDarkGray: #6b6b72;
+@value makerInputGray: #8c8c8c;
+
+@value makerShadow: 1.5px 1.5px 5px 1.5px rgba(151, 151, 151, 0.25);
